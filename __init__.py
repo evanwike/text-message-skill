@@ -1,3 +1,4 @@
+import os
 from mycroft import MycroftSkill, intent_file_handler
 from mycroft.util.log import getLogger
 from mycroft.util.parse import match_one
